@@ -1,0 +1,70 @@
+body {
+    background-color: white;
+}
+
+p {
+    font-weight: lighter;
+    font-size: larger;
+    text-align: center;
+    text-decoration: underline blueviolet;
+    border-style: solid;
+    border-color: aqua;
+  
+    width: fit-content;
+}
+
+.circle {
+
+    border-style: solid;
+    border-color: red;
+    width: 10rem;
+    height: 10rem;
+    margin-top: 5rem;
+    margin-right: 50%;
+    margin-left: 40%;
+    border-radius: 5rem ;
+}
+
+.eyes {
+    border: solid purple ;
+    width: 2rem;
+    height: 2rem;
+    margin-top: 15%;
+    margin-left: 15%;
+    border-radius: 1rem;
+
+}
+
+.eyes2 {
+    border: solid purple ;
+    width: 2rem;
+    height: 2rem;
+    margin-top: -24%;
+    margin-left: 60%;
+    margin-right: 15%;
+    border-radius: 1rem;
+
+}
+
+.nose{
+    border: solid darkgreen;
+    height: 2rem;
+    width: 0%;
+    margin-left: 48%;
+}
+
+.mouth {
+    border: solid blue;
+    width: 4rem;
+    margin-top: 1.2rem;
+    margin-left: 28%;
+}
+
+.dot {
+    border: black solid;
+    border-radius: 10px;
+    width: 1px;
+    height: 1px;
+    margin-top: 35%;
+    margin-left: 35%;
+}
